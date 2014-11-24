@@ -39,7 +39,6 @@ def main():
             exit(0)
         sleep(.5)
 
-
 if __name__ == '__main__':
     main()
 
