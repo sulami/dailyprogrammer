@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
+"""The computer tries to guess a number you give it"""
+
 from sys import argv
 from time import sleep
 

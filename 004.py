@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
+"""Finds possible valid calculations with a set of three numbers"""
+
 def main():
     numbers = ( (5, 3, 15), (4 ,2, 8), (6, 2, 12), (6, 2, 3), (9, 12, 108),
                 (4, 16, 64) )

@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
+"""Find scrambled words in a wordlist"""
+
 from urllib.request import urlopen
 
 def main():

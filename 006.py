@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
+"""Plays Nim"""
+
 from functools import reduce
 
 def nim(heaps, misere=True):

@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
+"""A simple stopwatch program"""
+
 from time import time
 from getch import getch
 
